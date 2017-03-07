@@ -1,0 +1,44 @@
+/* Welcome to Compass.
+ * In this file you should write your main styles. (or centralize your imports)
+ * Import this file using the following HTML or equivalent:
+ * <link href="/stylesheets/screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> */
+/* line 80, ../img/*.png */
+.img-sprite, .img-aws, .img-compass, .img-d3, .img-gsap, .img-jquery {
+  background-image: url('/img/../img.png');
+  background-repeat: no-repeat;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.img-aws {
+  background-position: 0 0;
+  height: 300px;
+  width: 300px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.img-compass {
+  background-position: 0 -300px;
+  height: 216px;
+  width: 216px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.img-d3 {
+  background-position: 0 -516px;
+  height: 400px;
+  width: 400px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.img-gsap {
+  background-position: 0 -916px;
+  height: 60px;
+  width: 60px;
+}
+
+/* line 84, ../../../../../../Library/Ruby/Gems/2.0.0/gems/compass-core-1.0.3/stylesheets/compass/utilities/sprites/_base.scss */
+.img-jquery {
+  background-position: 0 -976px;
+  height: 256px;
+  width: 256px;
+}
